@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\bin\Debug\net6.0\Two Dimential Array with Double.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\bin\Debug\net6.0\Two Dimential Array with Double.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\bin\Debug\net6.0\Two Dimential Array with Double.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\bin\Debug\net6.0\Two Dimential Array with Double.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\bin\Debug\net6.0\Two Dimential Array with Double.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\obj\Debug\net6.0\Two Dimential Array with Double.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\obj\Debug\net6.0\Two Dimential Array with Double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\obj\Debug\net6.0\Two Dimential Array with Double.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\obj\Debug\net6.0\Two Dimential Array with Double.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\obj\Debug\net6.0\Two Dimential Array with Double.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\obj\Debug\net6.0\Two Dimential Array with Double.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\obj\Debug\net6.0\refint\Two Dimential Array with Double.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\obj\Debug\net6.0\Two Dimential Array with Double.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\obj\Debug\net6.0\Two Dimential Array with Double.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Two Dimential Array with Double\obj\Debug\net6.0\ref\Two Dimential Array with Double.dll
