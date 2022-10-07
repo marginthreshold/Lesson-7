@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Show element in TwoDimetioanl Array/1.0.0": {
+        "runtime": {
+          "Show element in TwoDimetioanl Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Show element in TwoDimetioanl Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\obj\Debug\net6.0\Show element in TwoDimetioanl Array.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\obj\Debug\net6.0\Show element in TwoDimetioanl Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\obj\Debug\net6.0\Show element in TwoDimetioanl Array.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\obj\Debug\net6.0\Show element in TwoDimetioanl Array.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\obj\Debug\net6.0\Show element in TwoDimetioanl Array.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\bin\Debug\net6.0\Show element in TwoDimetioanl Array.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\bin\Debug\net6.0\Show element in TwoDimetioanl Array.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\bin\Debug\net6.0\Show element in TwoDimetioanl Array.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\bin\Debug\net6.0\Show element in TwoDimetioanl Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\bin\Debug\net6.0\Show element in TwoDimetioanl Array.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\obj\Debug\net6.0\Show element in TwoDimetioanl Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\obj\Debug\net6.0\refint\Show element in TwoDimetioanl Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\obj\Debug\net6.0\Show element in TwoDimetioanl Array.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\obj\Debug\net6.0\Show element in TwoDimetioanl Array.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson7\Show element in TwoDimetioanl Array\obj\Debug\net6.0\ref\Show element in TwoDimetioanl Array.dll
